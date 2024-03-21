@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="topic_1" path="topic_1.html"/>
+   <appContext helpID="topic_2" path="topic_2.html"/>
+   <appContext helpID="topic_3" path="topic_3.html"/>
+   <appContext helpID="topic_4" path="topic_4.html"/>
+   <appContext helpID="topic_5" path="topic_5.html"/>
+   <appContext helpID="topic_6" path="topic_6.html"/>
+</map>
